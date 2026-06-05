@@ -1,1 +1,1 @@
-city:vsi
+city:bangalore
